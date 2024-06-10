@@ -2,7 +2,7 @@
 
 ## About the malware
 Friday malware day! Interesting malware analysis.    
-Malware developers are not chilling on Friday and sending targeted RAT/Spyware worldwide and only a few specific Lithuanian organizations were interesting for them.    
+Malware developers are not chilling on Friday and sending targeted RAT/Spyware worldwide including specific Lithuanian organizations.    
 
 ![Screenshot 2024-06-07 204317](https://github.com/Wortexz/VBS-RAT/assets/26935578/6cf45c5c-cdad-4eb0-acb9-dc45b1135950)    
 
