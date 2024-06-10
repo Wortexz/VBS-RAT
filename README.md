@@ -64,7 +64,14 @@ __MITRE ATT&CK:__
 ![image](https://github.com/Wortexz/VBS-RAT/assets/26935578/eec4c54b-9a56-4e73-8bfb-fc3e04b81ba1)    
 
 ## IOCs    
-ESET Detection: VBS/Agent.RZX    
+ESET Detections: 
+- __(.VBS):__ VBS/Agent.RZX
+- Win32/PSWTool.WebBrowserPassView.I    
+- Win32/PSWTool.MailPassView.E    
+
+__SHA-256 (.VBS):__ 1d6d36ec589cbecea839e3b4a5156a35f48436847043f2e1f307f6579e7893e2    
+__SHA-256 (WebBrowserPassView):__ D44A5B7B5773BF33674B804C30FC6D25BFFEC3BA594BD317B56651B908612514    
+__SHA-256 (MailPassView):__ 5E8BA5A33D8D8CE16CF017E489CE29F911587D72A430ACC6AA14FD5E2F1032E9    
 
 __Network connections:__    
 - 178.215.236.110:3051 (jjhfksjh249ved.duckdns[.]org)    
@@ -77,7 +84,6 @@ __URL connections:__
 - hxxp://geoplugin.net/json[.]gp    
 - hxxp://karoonpc.com/qzntlmtgvccbhmgfidhrwp21[.]bin    
 - ssl://178.215.236.110:3051
-- __SHA-256:__ 1d6d36ec589cbecea839e3b4a5156a35f48436847043f2e1f307f6579e7893e2
 
 __Connections are to the compromised servers/websites:__    
 
