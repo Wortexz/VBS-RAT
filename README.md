@@ -28,6 +28,10 @@ Last Analysis: 2024-06-07 17:50:53 UTC
 - This malware can be Fileless if launched right.
 - Few organizations were attacked and other malware tricks are interesting.
 
+**ESET Research Team:**
+
+**Confirmed that this is a large GuLoader crimeware campaign in Lithuania.**   
+
 ## Malware analysis:
 __Type:__ VBScript    
 
